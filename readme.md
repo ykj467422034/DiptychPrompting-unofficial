@@ -37,7 +37,7 @@ Resolution of ( 2*736, 1152 ) by 30 Steps of 50s
 
 # Acknowledgements
 
-This is developed by KUNLUN Skywork AIStory team, all copyright reserved.
+This is developed by KUNLUN Skywork AI社交 CV team, all copyright reserved.
 
 Thanks to [Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](https://arxiv.org/abs/2411.15466).
 
